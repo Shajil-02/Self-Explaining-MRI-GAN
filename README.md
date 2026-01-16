@@ -138,3 +138,7 @@ This project demonstrates that GAN-based MRI image synthesis can be augmented wi
 ## Disclaimer
 
 Not for Clinical Decision-Making, Solely for Educational and Research Purposes
+
+Worked by
+
+- Shajil BP
